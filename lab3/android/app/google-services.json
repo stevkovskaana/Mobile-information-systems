@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714297983274",
+    "project_id": "mis-le-lab3",
+    "storage_bucket": "mis-le-lab3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714297983274:android:9c7441ea24f9c02f229e53",
+        "android_client_info": {
+          "package_name": "com.example.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE27ZPFetsayMGmN9x_M4LQBIzZkEKD7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
